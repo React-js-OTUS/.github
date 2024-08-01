@@ -95,6 +95,10 @@
 ### Обзор GraphQL
 [Презентация](https://docs.google.com/presentation/d/1pLNojygCtBtYOpn9RxE_BLLblbMNaIr60rGPnufuLW4/edit?usp=sharing)
 
+### Rest Api + Next.js. Роутинг. (часть 2)
+[Презентация](https://docs.google.com/presentation/d/1AKKmOHopo9tr64MRkyA_eRDRIiV3qegq/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
+[Репозиторий с примерами кода](https://github.com/React-js-OTUS/next-js-routing)
+
 ### Дополнительные репозитории с полной поддержкой всех возможностей graphql
 [Клиент](https://github.com/React-js-OTUS/graphql-learn-client)
 [Сервер](https://github.com/React-js-OTUS/graphql-learn-server)
