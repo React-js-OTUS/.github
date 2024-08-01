@@ -8,7 +8,7 @@
 
 Добро пожаловать и удачи в обучении!
 
-[Стартовый шаблон](https://github.com/React-js-OTUS/react-start-template) - его нужно форкнуть (только ветку main), с его помощью будут выполняться все домашние задания.
+<a href="http://example.com/](https://github.com/React-js-OTUS/react-start-template" target="_blank">Стартовый шаблон</a> - его нужно форкнуть (только ветку main), с его помощью будут выполняться все домашние задания.
 
 ### Решение ошибок git pull:
 При git pull в собственный (форкнутый) стартовый шаблон может возникнуть ошибка **Permission denied**.
