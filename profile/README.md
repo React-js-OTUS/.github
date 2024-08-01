@@ -100,7 +100,7 @@
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/next-js-routing)
 
 ### Дополнительные репозитории с полной поддержкой всех возможностей graphql
-[Клиент](https://github.com/React-js-OTUS/graphql-learn-client)
+[Клиент](https://github.com/React-js-OTUS/graphql-learn-client) \
 [Сервер](https://github.com/React-js-OTUS/graphql-learn-server)
 
 ### Аутентификация в современном веб приложении
