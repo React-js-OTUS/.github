@@ -99,7 +99,7 @@
 [Презентация](https://docs.google.com/presentation/d/1AKKmOHopo9tr64MRkyA_eRDRIiV3qegq/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/next-js-routing)
 
-### Rest Api + Next.js. Аутентификация (часть 2)
+### Rest Api + Next.js. Аутентификация (часть 3)
 [Презентация](https://docs.google.com/presentation/d/1gDzo5swv-mPVOduTO4NCsOFG8H7Z--_V/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/next-js-authentication)
 
