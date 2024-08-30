@@ -111,11 +111,9 @@
 [Презентация](https://docs.google.com/presentation/d/1gIFkSmoGI-UVb4vSU3c_Wz6VmmYVElGLsiVilKYPTxM/edit?usp=sharing)
 
 ### Разработка мессенджера Websockets
-[Итоговое приложение](http://ac4366b428e4.vps.myjino.ru/) \
 [Клиент](https://github.com/React-js-OTUS/otus-websockets-client) \
 [Сервер](https://github.com/React-js-OTUS/otus-socket-server)
 
 ### Разработка игры Ветклиника - graphql
-[Итоговое приложение](http://9f9afff13ee4.vps.myjino.ru/) \
 [Клиент](https://github.com/React-js-OTUS/otus-lesson-graphql-client) \
 [Сервер](https://github.com/React-js-OTUS/otus-lesson-graphql-server)
