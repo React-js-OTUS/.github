@@ -39,7 +39,8 @@
 [Презентация](https://docs.google.com/presentation/d/1cIKdir5jLDDq-VAmlBgk7Px_hPJy-Ge6FJzvjWTiFhw/edit?usp=sharing)
 
 ### JSX + CSS
-[Презентация](https://docs.google.com/presentation/d/1FBFNmW10dsG94R_C30eVbp_cHTjSwULCI1qiud5RK0A/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/1FBFNmW10dsG94R_C30eVbp_cHTjSwULCI1qiud5RK0A/edit?usp=sharing) \
+[Репозиторий с примерами кода](https://github.com/React-js-OTUS/css-in-js)
 
 ### React lifecycle
 [Презентация](https://docs.google.com/presentation/d/1dsegEyTIbglnGO_85uDk3LH0PwEVrFF1dpTbwL3y7QA/edit?usp=sharing)
