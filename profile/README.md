@@ -118,3 +118,6 @@
 ### Разработка игры Ветклиника - graphql
 [Клиент](https://github.com/React-js-OTUS/otus-lesson-graphql-client) \
 [Сервер](https://github.com/React-js-OTUS/otus-lesson-graphql-server)
+
+### Репетиция собеседования
+[Презентация](https://docs.google.com/presentation/d/199yY1u3TGU3duqq7Md3Apf2qeT9dIxWN/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
