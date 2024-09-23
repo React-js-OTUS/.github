@@ -96,6 +96,9 @@
 ### Обзор GraphQL
 [Презентация](https://docs.google.com/presentation/d/1pLNojygCtBtYOpn9RxE_BLLblbMNaIr60rGPnufuLW4/edit?usp=sharing)
 
+### Rest Api + Next.js (часть 1)
+[Презентация](https://docs.google.com/presentation/d/1ODm7nCH9iJn6J1JhH4gry-tnGVc81uOv/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
+
 ### Rest Api + Next.js. Роутинг (часть 2)
 [Презентация](https://docs.google.com/presentation/d/1AKKmOHopo9tr64MRkyA_eRDRIiV3qegq/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/next-js-routing)
