@@ -119,6 +119,7 @@
 [Сервер](https://github.com/React-js-OTUS/otus-socket-server)
 
 ### Разработка игры Ветклиника - graphql
+[Презентация 1](https://docs.google.com/presentation/d/1NfB9n6wCXBf2ty9uqyZ5E1KZr_XFKVZvrqpsMU2m0QY/edit?usp=sharing) \
 [Клиент](https://github.com/React-js-OTUS/otus-lesson-graphql-client) \
 [Сервер](https://github.com/React-js-OTUS/otus-lesson-graphql-server)
 
