@@ -125,6 +125,7 @@
 ### Разработка игры Ветклиника - graphql
 [Готовое приложение](http://9f9afff13ee4.vps.myjino.ru) \
 [Презентация 1](https://docs.google.com/presentation/d/1NfB9n6wCXBf2ty9uqyZ5E1KZr_XFKVZvrqpsMU2m0QY/edit?usp=sharing) \
+[Презентация 2](https://docs.google.com/presentation/d/1Whs_o2axiVu7e6WFLTwq17mz0Vbrg-iK5_LkjRpWs1c/edit?usp=sharing) \
 [Клиент](https://github.com/React-js-OTUS/otus-lesson-graphql-client) \
 [Сервер](https://github.com/React-js-OTUS/otus-lesson-graphql-server)
 
