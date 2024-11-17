@@ -81,6 +81,9 @@
 [Презентация](https://docs.google.com/presentation/d/19luVFowlHECeMyhrPuUeApj6afYH5P2qtcMVVo8BE2A/edit?usp=sharing) \
 [Репозиторий](https://github.com/spirit-drive/redux-thunk-example)
 
+### Генераторы и итераторы
+[Презентация](https://github.com/React-js-OTUS/react-tutorial/blob/main/presentations/module3/5_ReduxSagaIntro/lecture.md)
+
 ### Redux-Saga
 [Презентация](https://docs.google.com/presentation/d/1_8oRVXGRhvkzXJ4_h_sdw6GPegKxwUYHlPijPIN_AE0/edit?usp=sharing)
 [Репозиторий](https://github.com/spirit-drive/redux-saga-example)
