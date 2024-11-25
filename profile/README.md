@@ -101,6 +101,7 @@
 [Презентация](https://docs.google.com/presentation/d/1pLNojygCtBtYOpn9RxE_BLLblbMNaIr60rGPnufuLW4/edit?usp=sharing)
 
 ### Практика (слайдер диапазона, всплывающий компонент)
+[Презентация](https://docs.google.com/presentation/d/1nOGAoWptUsc7MYqfTc_LSRZWzf565NcWGSyWA4cjrYY/edit?usp=sharing) \
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/spirit-drive.github.io)
 
 ### Rest Api + Next.js (часть 1)
