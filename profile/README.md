@@ -47,7 +47,8 @@
 [Презентация](https://docs.google.com/presentation/d/1dsegEyTIbglnGO_85uDk3LH0PwEVrFF1dpTbwL3y7QA/edit?usp=sharing)
 
 ### React hooks
-[Презентация](https://docs.google.com/presentation/d/18a9RHLztuRKOmBTmuTTAuUlIC_hzBvmUxWAyjvkxuAk/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/18a9RHLztuRKOmBTmuTTAuUlIC_hzBvmUxWAyjvkxuAk/edit?usp=sharing) \
+[Репозиторий с примерами кода](https://github.com/React-js-OTUS/hooks-lesson)
 
 ### Списки, ключи, события, порталы
 [Презентация](https://docs.google.com/presentation/d/1WysmnSMBeFZsFGgJ3-iGft2Qh3o03I6xTtbwUX67Kl8/edit?usp=sharing)
