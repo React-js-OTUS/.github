@@ -127,6 +127,7 @@
 [Презентация](https://docs.google.com/presentation/d/1gIFkSmoGI-UVb4vSU3c_Wz6VmmYVElGLsiVilKYPTxM/edit?usp=sharing)
 
 ### Разработка мессенджера Websockets
+[Презентация](https://docs.google.com/presentation/d/1fwRKjoPbna-zxGgQBfTwILMB1X2r8qEy/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
 [Клиент](https://github.com/React-js-OTUS/otus-websockets-client) \
 [Сервер](https://github.com/React-js-OTUS/otus-socket-server)
 
