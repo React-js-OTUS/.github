@@ -40,7 +40,7 @@
 [Презентация](https://docs.google.com/presentation/d/1qSZ2oYy_LTyc6khYCv_BcIBn3MiLWUreT_cXEmWUCgY/edit?usp=sharing)
 
 ### Основы ReactJS. Компоненты
-[Презентация](https://docs.google.com/presentation/d/13vA7JAgIi_tawvCBgbkvBO4c3_HOkPuy/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
+[Презентация](https://docs.google.com/presentation/d/1E0ZEH_463Nlviglk7K2SsAhpk9urCQ3u/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
 
 ### JSX + CSS
 [Презентация](https://docs.google.com/presentation/d/1FBFNmW10dsG94R_C30eVbp_cHTjSwULCI1qiud5RK0A/edit?usp=sharing) \
