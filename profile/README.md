@@ -128,6 +128,8 @@
 
 ### Разработка мессенджера Websockets
 [Презентация](https://docs.google.com/presentation/d/1fwRKjoPbna-zxGgQBfTwILMB1X2r8qEy/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
+[Репозиторий с готовым кодом](https://github.com/React-js-OTUS/websocket-course2) \
+
 [Клиент](https://github.com/React-js-OTUS/otus-websockets-client) \
 [Сервер](https://github.com/React-js-OTUS/otus-socket-server)
 
