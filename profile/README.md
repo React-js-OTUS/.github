@@ -50,7 +50,9 @@
 [Презентация](https://docs.google.com/presentation/d/1dsegEyTIbglnGO_85uDk3LH0PwEVrFF1dpTbwL3y7QA/edit?usp=sharing)
 
 ### React hooks
-[Презентация](https://docs.google.com/presentation/d/18a9RHLztuRKOmBTmuTTAuUlIC_hzBvmUxWAyjvkxuAk/edit?usp=sharing) \
+[Презентация (часть 1)](https://docs.google.com/presentation/d/18a9RHLztuRKOmBTmuTTAuUlIC_hzBvmUxWAyjvkxuAk/edit#slide=id.p1) \
+[Презентация (часть 2)](https://docs.google.com/presentation/d/1qKOhpbQcsHzSMu86yNOLuYE3dTht0YHfcB-ImMScKAY/edit#slide=id.p1) \
+[Презентация (часть 3)](https://docs.google.com/presentation/d/1JIxmUht3JNCMjXv98RnMi4wUSj8inn-PShVRzRaW1us/edit#slide=id.p1) \
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/hooks-lesson)
 
 ### Списки, ключи, события, порталы
