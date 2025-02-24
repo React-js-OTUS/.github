@@ -23,9 +23,6 @@
 ### Полезные ссылки
 [Памятка по работе в команде](https://docs.google.com/presentation/d/1Xi4HCRDlgLEnCuDcGhDsSWdz8dJg3kCiBYuI938c1us/edit?usp=sharing)
 
-### Введение в современную frontend разработку (по желанию)
-[Презентация](https://docs.google.com/presentation/d/1ljvQ6ysNzdh4CT-MbMSeLuFj_Nmy4iDulJrqXCjdiJ4/edit?usp=sharing)
-
 ### Основы разработки с использованием пакетных менеджеров и Git
 [Презентация](https://docs.google.com/presentation/d/1YXheGRx6vLhmgH3lA_X2aGDd9oGVANGB/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
 
