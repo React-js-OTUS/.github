@@ -27,9 +27,8 @@
 [Презентация](https://docs.google.com/presentation/d/1YXheGRx6vLhmgH3lA_X2aGDd9oGVANGB/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
 
 ### Использование Storybook при создании UI компонентов
-[Репозиторий](https://github.com/React-js-OTUS/storybook-example)
+[Репозиторий](https://github.com/React-js-OTUS/storybook-example) \
 [Презентация](https://docs.google.com/presentation/d/1kU5Hp7v9msSBF7MLb-TA6DuiVHblCf9c08ZaKOFUUo8/edit?usp=sharing)
-
 
 ### Установка и настройка React
 [Презентация](https://docs.google.com/presentation/d/168acgd_80dpfBqW3Lqp2LJSqBNGrgsXdASNd6Z3dwWA/edit?usp=sharing)
