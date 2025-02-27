@@ -1,8 +1,6 @@
 # Приветствую на курсе по React от OTUS! 🦉
 
 Это учебный проект курса. Здесь вы найдете материалы к лекциям, домашние задания, а так же примеры некоторых сложных компонентов. \
-\
-[Репозиторий](https://github.com/React-js-OTUS/react-tutorial)
 
 Проект написан на **TypeScript** с использованием **Redux**, **Redux-Saga** и **Webpack**. В нём реализованы тёмная/светлая тема, переключение локалей, навигация и обмен токенами между вкладками браузера.
 
@@ -12,7 +10,11 @@
 
 Добро пожаловать и удачи в обучении!
 
-[Стартовый шаблон](https://github.com/React-js-OTUS/react-start-template) - его нужно форкнуть (только ветку main), с его помощью будут выполняться все домашние задания.
+[Стартовый репозиторий (шаблон)](https://github.com/React-js-OTUS/react-start-template) - его нужно форкнуть (только ветку main) \
+[Основной учебный репозиторий](https://github.com/React-js-OTUS/react-tutorial) \
+[Репозиторий со сложными компонентами](https://github.com/React-js-OTUS/spirit-drive.github.io) \
+[Репозиторий GrqphQL сервера](https://github.com/React-js-OTUS/otus-graphql-server) \
+[Репозиторий REST сервера](https://github.com/React-js-OTUS/otus-rest-server)
 
 ### Решение ошибок git pull:
 При git pull в собственный (форкнутый) стартовый шаблон может возникнуть ошибка **Permission denied**.
@@ -72,7 +74,8 @@
 [Презентация](https://docs.google.com/presentation/d/1JhUrzp_pjFWKLVwhw0AKCCW-wfE3etxCFxJvtC1dCjM/edit?usp=sharing)
 
 ### React patterns
-[Презентация](https://docs.google.com/presentation/d/1FEQ2bOqhYzvpFdVtx-B2pQPrT-_wBj_f3lCmcurgkFQ/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/1FEQ2bOqhYzvpFdVtx-B2pQPrT-_wBj_f3lCmcurgkFQ/edit?usp=sharing) \
+[Репозиторий](https://github.com/React-js-OTUS/react-patterns)
 
 ### Jest и тестирование
 [Презентация](https://docs.google.com/presentation/d/12uSy5L6SNxePdOioFQLKlkRfnnA6LC2n4QAPUpUGg0c/edit?usp=sharing)
@@ -81,7 +84,8 @@
 [Презентация](https://docs.google.com/presentation/d/1u2U2wRWhNHG8bMRRbv2l8snZlz4qczfao7QD-3LwKDE/edit?usp=sharing)
 
 ### React Router
-[Презентация](https://docs.google.com/presentation/d/1CIHVVkV6rvuitS5ctiIwBuYmb-oViqhAslB27rV6s2Y/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/1CIHVVkV6rvuitS5ctiIwBuYmb-oViqhAslB27rV6s2Y/edit?usp=sharing) \
+[Репозиторий](https://github.com/React-js-OTUS/router-lesson)
 
 ### Redux Toolkit
 [Презентация](https://docs.google.com/presentation/d/1buXGSxK4LroGRyifGOGty6TX3BzyU7GyVq_I7XX_Z9c/edit?usp=sharing) \
@@ -109,6 +113,9 @@
 
 ### Обзор GraphQL
 [Презентация](https://docs.google.com/presentation/d/1pLNojygCtBtYOpn9RxE_BLLblbMNaIr60rGPnufuLW4/edit?usp=sharing)
+### Дополнительные репозитории с полной поддержкой всех возможностей GraphQL
+[Клиент](https://github.com/React-js-OTUS/graphql-learn-client) \
+[Сервер](https://github.com/React-js-OTUS/graphql-learn-server)
 
 ### Практика (слайдер диапазона, всплывающий компонент)
 [Презентация](https://docs.google.com/presentation/d/1nOGAoWptUsc7MYqfTc_LSRZWzf565NcWGSyWA4cjrYY/edit?usp=sharing) \
@@ -125,10 +132,6 @@
 [Презентация](https://docs.google.com/presentation/d/1gDzo5swv-mPVOduTO4NCsOFG8H7Z--_V/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/next-js-authentication)
 
-### Дополнительные репозитории с полной поддержкой всех возможностей graphql
-[Клиент](https://github.com/React-js-OTUS/graphql-learn-client) \
-[Сервер](https://github.com/React-js-OTUS/graphql-learn-server)
-
 ### Аутентификация в современном веб приложении
 [Презентация](https://docs.google.com/presentation/d/1gIFkSmoGI-UVb4vSU3c_Wz6VmmYVElGLsiVilKYPTxM/edit?usp=sharing)
 
@@ -143,8 +146,8 @@
 [Готовое приложение](http://9f9afff13ee4.vps.myjino.ru) \
 [Презентация 1](https://docs.google.com/presentation/d/1NfB9n6wCXBf2ty9uqyZ5E1KZr_XFKVZvrqpsMU2m0QY/edit?usp=sharing) \
 [Презентация 2](https://docs.google.com/presentation/d/1Whs_o2axiVu7e6WFLTwq17mz0Vbrg-iK5_LkjRpWs1c/edit?usp=sharing) \
-[Клиент](https://github.com/React-js-OTUS/otus-lesson-graphql-client) \
-[Сервер](https://github.com/React-js-OTUS/otus-lesson-graphql-server)
+[Клиент](https://github.com/React-js-OTUS/graphql-learn-server) \
+[Сервер](https://github.com/React-js-OTUS/graphql-learn-client)
 
 ### Репетиция собеседования
 [Презентация](https://docs.google.com/presentation/d/199yY1u3TGU3duqq7Md3Apf2qeT9dIxWN/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
