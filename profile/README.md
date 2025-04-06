@@ -117,20 +117,19 @@
 [Клиент](https://github.com/React-js-OTUS/graphql-learn-client) \
 [Сервер](https://github.com/React-js-OTUS/graphql-learn-server)
 
-### Практика (слайдер диапазона, всплывающий компонент)
+### Практика (1) Слайдер диапазона
+[Презентация](https://docs.google.com/presentation/d/1HojNYruxnEKihS140jQhL5kcqcR90fbc/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
+[Репозиторий с примерами кода](https://github.com/React-js-OTUS/slider-range)
+
+### Практика (2) Всплывающий компонент
 [Презентация](https://docs.google.com/presentation/d/1nOGAoWptUsc7MYqfTc_LSRZWzf565NcWGSyWA4cjrYY/edit?usp=sharing) \
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/spirit-drive.github.io)
 
-### Rest Api + Next.js (часть 1)
-[Презентация](https://docs.google.com/presentation/d/1ODm7nCH9iJn6J1JhH4gry-tnGVc81uOv/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
+### Знакомство с Next.js. Основы Next.js и маршрутизация (1)
+[Презентация](https://docs.google.com/presentation/d/16vyc0Rz_3vsTXqaPmxTfcK-K8B22WXds/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
 
-### Rest Api + Next.js. Роутинг (часть 2)
-[Презентация](https://docs.google.com/presentation/d/1AKKmOHopo9tr64MRkyA_eRDRIiV3qegq/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
-[Репозиторий с примерами кода](https://github.com/React-js-OTUS/next-js-routing)
-
-### Rest Api + Next.js. Аутентификация (часть 3)
-[Презентация](https://docs.google.com/presentation/d/1gDzo5swv-mPVOduTO4NCsOFG8H7Z--_V/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
-[Репозиторий с примерами кода](https://github.com/React-js-OTUS/next-js-authentication)
+### Знакомство с Next.js. Запрос данных и авторизация в Next.js (2)
+[Презентация](https://docs.google.com/presentation/d/1ERT2peYHej9B0tib4SrA3T1f69xHYvsv/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
 
 ### Аутентификация в современном веб приложении
 [Презентация](https://docs.google.com/presentation/d/1gIFkSmoGI-UVb4vSU3c_Wz6VmmYVElGLsiVilKYPTxM/edit?usp=sharing)
@@ -151,3 +150,7 @@
 
 ### Репетиция собеседования
 [Презентация](https://docs.google.com/presentation/d/199yY1u3TGU3duqq7Md3Apf2qeT9dIxWN/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
+
+### Дополнительные репозитории
+[Репозиторий с примерами кода по Next.js (1)](https://github.com/React-js-OTUS/next-js-authentication) \
+[Репозиторий с примерами кода по Next.js (2)](https://github.com/React-js-OTUS/next-js-routing)
