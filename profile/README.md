@@ -118,7 +118,7 @@
 [Сервер](https://github.com/React-js-OTUS/graphql-learn-server)
 
 ### Практика (1) Слайдер диапазона
-[Презентация](https://docs.google.com/presentation/d/1HojNYruxnEKihS140jQhL5kcqcR90fbc/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true) \
+[Презентация](https://docs.google.com/presentation/d/1OVBL-tsNcXBj3zwWFA3UHl4Zh6YjOSfYkVk9pkfttlk/edit?usp=sharing) \
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/slider-range)
 
 ### Практика (2) Всплывающий компонент
