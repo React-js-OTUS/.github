@@ -71,7 +71,7 @@
 [Презентация](https://docs.google.com/presentation/d/13LTB0dyDBlKC40ETwNx53H6RMxBn-As_D509CLPU5-E/edit?usp=sharing)
 
 ### Основы функционального программирования
-[Презентация](https://docs.google.com/presentation/d/1GjHJiZoymwRqS5zsDHaix3HAF98e8XGMk6phP_jX6r8/edit?usp=sharing) \
+[Презентация](https://docs.google.com/presentation/d/1sDJoovk-P1e0cBmcFfUJdZ_IZCapuK0GX5nsKxtc9Xg/edit?usp=sharing) \
 [Репозиторий 1](https://github.com/React-js-OTUS/ts-functional-programming) \
 [Репозиторий 2 (OLD)](https://github.com/React-js-OTUS/functional-programming)
 
