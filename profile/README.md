@@ -128,10 +128,10 @@
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/spirit-drive.github.io)
 
 ### Знакомство с Next.js. Основы Next.js и маршрутизация (1)
-[Презентация](https://docs.google.com/presentation/d/16vyc0Rz_3vsTXqaPmxTfcK-K8B22WXds/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
+[Презентация](https://docs.google.com/presentation/d/1E283XxScZXSwOmLRzW5rxtdpt6Ac-pQMsK4d-Y-tB0o/edit?usp=sharing)
 
 ### Знакомство с Next.js. Запрос данных и авторизация в Next.js (2)
-[Презентация](https://docs.google.com/presentation/d/1ERT2peYHej9B0tib4SrA3T1f69xHYvsv/edit?usp=sharing&ouid=112877818179427577942&rtpof=true&sd=true)
+[Презентация](https://docs.google.com/presentation/d/1vFfJfGSVFSZ-rrEswlCr5ToKHpeXJ-LcT9v2RaNUzPk/edit?usp=sharing)
 
 ### Аутентификация в современном веб приложении
 [Презентация](https://docs.google.com/presentation/d/1gIFkSmoGI-UVb4vSU3c_Wz6VmmYVElGLsiVilKYPTxM/edit?usp=sharing)
