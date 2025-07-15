@@ -62,7 +62,8 @@
 [Репозиторий с примерами кода](https://github.com/React-js-OTUS/hooks-lesson)
 
 ### Списки, ключи, события, порталы
-[Презентация](https://docs.google.com/presentation/d/1WysmnSMBeFZsFGgJ3-iGft2Qh3o03I6xTtbwUX67Kl8/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/1WysmnSMBeFZsFGgJ3-iGft2Qh3o03I6xTtbwUX67Kl8/edit?usp=sharing) \
+[Репозиторий с примерами кода](https://github.com/React-js-OTUS/react-lists-events-portals)
 
 ### Формы, formik, react-hooks-form
 [Презентация](https://docs.google.com/presentation/d/1ic2TA8m1B78qOS_WyKz45hTISLySIKViaqeyFkJq6Qs/edit?usp=sharing)
